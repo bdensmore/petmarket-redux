@@ -4,14 +4,17 @@
   "private": true,
   "dependencies": {
     "imperavi-kube": "^6.5.2",
+    "json-server": "^0.12.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
+    "react-router-dom": "^4.2.2",
     "react-scripts": "1.0.11"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "dev-server": "json-server -p 8080 db.json"
   }
 }

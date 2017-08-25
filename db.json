@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Birds",
+      "image_name": "_birds_65.gif"
+    },
+    {
+      "id": 2,
+      "name": "Cats",
+      "image_name": "_cats_65.gif"
+    },
+    {
+      "id": 3,
+      "name": "Dogs",
+      "image_name": "_dogs_65.gif"
+    },
+    {
+      "id": 4,
+      "name": "Fish",
+      "image_name": "_fish_65.gif"
+    },
+    {
+      "id": 5,
+      "name": "Reptiles",
+      "image_name": "_fish_65.gif"
+    }
+  ]
+}
